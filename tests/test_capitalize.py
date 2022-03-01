@@ -1,4 +1,4 @@
-from capitalize import capitalize
+from project_capitalize.capitalize import capitalize
 
 if capitalize('hello') != 'Hello':
     raise Exception('Функция работает неверно!')
