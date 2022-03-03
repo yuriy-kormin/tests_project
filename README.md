@@ -1,1 +1,2 @@
+[![hello-world](https://github.com/yuriy-kormin/tests_project/actions/workflows/hello-world.yml/badge.svg)](https://github.com/yuriy-kormin/tests_project/actions/workflows/hello-world.yml)
 Its a readme file for tests-project
